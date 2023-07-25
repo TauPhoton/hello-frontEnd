@@ -1,0 +1,26 @@
+* {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#page-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+#user-bar {
+  background-color: lightgrey;
+}
+
+#user-bar li {
+  display: inline-block;
+  padding: 3px;
+  text-decoration: underline;
+}
+
+#navbar-elements {
+  background-color: #a2dbd7;
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
